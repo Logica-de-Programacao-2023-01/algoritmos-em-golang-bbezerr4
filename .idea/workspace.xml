@@ -45,13 +45,29 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build selecao 3.go">
-    <configuration name="go build selecao 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build repeticao 3.go">
+    <configuration name="go build repeticao 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-bbezerr4" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/selecao 1.go" />
+      <filePath value="$PROJECT_DIR$/repeticao 1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repeticao 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-bbezerr4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/repeticao 2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repeticao 3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-bbezerr4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/repeticao 3.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build selecao 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -72,9 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build repeticao 3.go" />
+        <item itemvalue="Go Build.go build repeticao 2.go" />
+        <item itemvalue="Go Build.go build repeticao 1.go" />
         <item itemvalue="Go Build.go build selecao 3.go" />
         <item itemvalue="Go Build.go build selecao 2.go" />
-        <item itemvalue="Go Build.go build selecao 1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -84,5 +102,16 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/repeticao 2.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
